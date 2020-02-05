@@ -6,6 +6,8 @@
 ## Commonly used docker dommands 
 
 Run given container <br>
+You can attach '-d' to run container in background<br>
+
 <i>docker run 'your_docker_image'</i>
 
 Stop given container <br>
