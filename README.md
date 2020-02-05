@@ -20,6 +20,9 @@ See all running containers <br>
 Pause docker container <br>
 <i> docker pause my_container </i>
 
+Print content on running container <br>
+<i>docker exec 'container_name' cat /etc/hosts </i<
+
 ### Images
 
 See list of docker images <br>
