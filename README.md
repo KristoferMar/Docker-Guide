@@ -6,7 +6,7 @@
 ## Commonly used docker dommands 
 
 Run given container <br>
-<i>docker run 'your_docker_image'</i<
+<i>docker run 'your_docker_image'</i>
 
 Stop given container <br>
 <i>docker stop container_name</i>
@@ -21,7 +21,7 @@ Pause docker container <br>
 <i> docker pause my_container </i>
 
 Print content on running container <br>
-<i>docker exec 'container_name' cat /etc/hosts </i<
+<i>docker exec 'container_name' cat /etc/hosts </i>
 
 ### Images
 
