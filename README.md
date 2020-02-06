@@ -44,3 +44,7 @@ Pull an image without running container <br>
 
 Remove docker image <br>
 <i> docker rmi 'Your_Image' </i>
+
+### Compose 
+
+docker-compose-yml file is the configuration file for our docker file. 
