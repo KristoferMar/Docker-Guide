@@ -5,8 +5,13 @@
 
 ## Commonly used docker dommands 
 
+See all running containers <br>
+- Attach '-a' to see all containers
+<i>docker ps</i>
+
 Run given container <br>
-You can attach '-d' to run container in background<br>
+- Attach '-d' to run container in background<br>
+- Attach '-p 80:5000' to run container on specific port
 <b><i>docker run 'your_docker_image'</i></b>
 
 Stop given container <br>
@@ -23,6 +28,9 @@ Pause docker container <br>
 
 Print content on running container <br>
 <i>docker exec 'container_name' cat /etc/hosts </i>
+
+Get data on running containers <br>
+<i>docker inspect 'container' </i>
 
 ### Images
 
