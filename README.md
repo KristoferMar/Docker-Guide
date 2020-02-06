@@ -34,6 +34,8 @@ Get data on running containers <br>
 
 ### Images
 
+Images are used to dockerize applications so we are able to boot them up in docker inside a container.
+
 See list of docker images <br>
 <i>docker images </i>
 
