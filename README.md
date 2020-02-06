@@ -50,3 +50,6 @@ Remove docker image <br>
 docker-compose-yml file is the configuration file for our docker file. 
 
 We can make use of the docker compose file to compose multiple applications together and host an entire system with docker. This can include a DB, a front-end and back-end for instance. 
+
+### Docker registry
+The docker registry is the central repository for all containers. The registry can be understanded like github.. We have private and public registries which are all stored on the central docker registry. 
