@@ -48,3 +48,5 @@ Remove docker image <br>
 ### Compose 
 
 docker-compose-yml file is the configuration file for our docker file. 
+
+We can make use of the docker compose file to compose multiple applications together and host an entire system with docker. This can include a DB, a front-end and back-end for instance. 
