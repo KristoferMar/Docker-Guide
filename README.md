@@ -14,11 +14,11 @@ Run given container <br>
 - Attach '-p 80:5000' to run container on specific port
 <b><i>docker run 'your_docker_image'</i></b>
 
-Stop given container <br>
+<b>Stop given container <br> </b>
 <i>docker stop container_name</i>
 
 Remove given container <br>
-<b><i>docker rm container_name</i><b>
+<i>docker rm container_name</i>
 
 Compleatly remove docker container. 
 <i> docker rm container_name </i>
