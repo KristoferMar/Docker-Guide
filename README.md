@@ -17,7 +17,7 @@ Run given container <br>
 <b>Stop given container <br> </b>
 <i>docker stop container_name</i>
 
-Remove given container <br>
+<b>Remove given container <br> </b>
 <i>docker rm container_name</i>
 
 Compleatly remove docker container. 
