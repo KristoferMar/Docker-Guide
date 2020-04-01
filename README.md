@@ -14,7 +14,7 @@ Run given container <br>
 - Attach '-p 80:5000' to run container on specific port
 <b><i>docker run 'your_docker_image'</i></b>
 
-<b>Stop given container <br> </b>
+<p id="stopContainer"><b>Stop given container</b></p><br>
 <i>docker stop container_name</i>
 
 <b>Remove given container <br> </b>
