@@ -24,7 +24,7 @@ Run given container <br>
 Compleatly remove docker container. 
 <i> docker rm container_name </i>
 
-See all running containers <br>
+See status list of all running containers <br>
 <i> docker container ls -a </i>
 
 Pause docker container <br>
