@@ -19,7 +19,7 @@ Run given container <br>
 <br>
 
 <h5>Restart docker container</h5>
-<i>docker restart 'container_id'</i>
+<i>docker restart 'container_id'</i><br>
 <p>Restart all containers</p>
 <i>docker restart $(docker ps -q)</i><br><br>
 
