@@ -18,6 +18,11 @@ Run given container <br>
 <i>docker stop container_name</i>
 <br>
 
+<h5>Restart docker container</h5>
+<i>docker restart 'container_id'</i><br>
+<p>Restart all containers</p>
+<i>docker restart $(docker ps -q)</i><br>
+
 <b>Remove given container <br> </b>
 <i>docker rm container_name</i>
 
