@@ -41,6 +41,9 @@ Print content on running container <br>
 Get data on running containers <br>
 <i>docker inspect 'container' </i>
 
+Get logs of a specific container <br>
+<i>docker logs 'container_id'</i>
+
 ### Images
 
 Images are used to dockerize applications so we are able to boot them up in docker inside a container.
