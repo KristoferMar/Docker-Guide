@@ -29,19 +29,19 @@ Run given container <br>
 <h4>Compleatly remove docker container. </h4>
 <i> docker rm container_name </i>
 
-See status list of all running containers <br>
+<h4>See status list of all running containers</h4>
 <i> docker container ls -a </i>
 
-Pause docker container <br>
+<h4>Pause docker container </h4>
 <i> docker pause my_container </i>
 
-Print content on running container <br>
+<h4>Print content on running container</h4>
 <i>docker exec 'container_name' cat /etc/hosts </i>
 
-Get data on running containers <br>
+<h4>Get data on running containers</h4>
 <i>docker inspect 'container' </i>
 
-Get logs of a specific container <br>
+<h4>Get logs of a specific container</h4>
 <i>docker logs 'container_id'</i>
 
 ### Images
