@@ -23,10 +23,10 @@ Run given container <br>
 <p>Restart all containers</p>
 <i>docker restart $(docker ps -q)</i><br><br>
 
-<b>Remove given container <br> </b>
+<h4>Remove given container </h4>
 <i>docker rm container_name</i>
 
-Compleatly remove docker container. 
+<h4>Compleatly remove docker container. </h4>
 <i> docker rm container_name </i>
 
 See status list of all running containers <br>
