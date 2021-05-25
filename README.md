@@ -57,11 +57,12 @@ Pull an image without running container <br>
 Remove docker image <br>
 <i> docker rmi 'Your_Image' </i>
 
-### Compose 
+<h2>Compose</h2> 
 
 docker-compose-yml file is the configuration file for our docker file. 
 
 We can make use of the docker compose file to compose multiple applications together and host an entire system with docker. This can include a DB, a front-end and back-end for instance. 
 
-### Docker registry
+<h2>Docker registry</h2>
 The docker registry is the central repository for all containers. The registry can be understanded like github.. We have private and public registries which are all stored on the central docker registry. 
+
