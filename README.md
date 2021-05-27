@@ -57,7 +57,7 @@ Pull an image without running container <br>
 Remove docker image <br>
 <i> docker rmi 'Your_Image' </i>
 
-### Compose 
+<h2>Compose</h2> 
 
 docker-compose-yml file is the configuration file for our docker file. 
 
@@ -101,3 +101,6 @@ The docker registry is the central repository for all containers. <br>
 <h2>Commands</h2>
 retrieves the Secrets in the “default” namespace <br>
 - kubectl get secrets --namespace=default
+<h2>Docker registry</h2>
+The docker registry is the central repository for all containers. The registry can be understanded like github.. We have private and public registries which are all stored on the central docker registry. 
+
